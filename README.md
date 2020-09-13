@@ -2,9 +2,12 @@
 A collection of numerical methods for all sorts of things. :)
 
 ## Table of contents
-- [Paste Your Document In Here](#paste-your-document-in-here)
-  * [And a table of contents](#and-a-table-of-contents)
-  * [On the right](#on-the-right)
+- [Numerical solution of non lineal functions](#paste-your-document-in-here)
+  * [Incremental search method](#and-a-table-of-contents)
+  * [Bisection method](#on-the-right)
+  * [Fixed point method](#on-the-right)
+  * [Newton's method](#on-the-right)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+<small><i><a href=''>[Here]</a></i></small>
 
